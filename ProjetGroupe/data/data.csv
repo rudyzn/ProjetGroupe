@@ -1,0 +1,9 @@
+nom,prenom,email,dob,pwd,genre,nat,com
+ENRICI,Cyril,cyril.enrici@cote-azur.cci.fr,05-02-2002,$2y$10$Ps5w4E5DcoUx5iwrSMmJpuRh6IOjMQWM39z0XhiDlzMgNNsf9XlRq,Barbu,FR,"Un autre sadique"
+Test,test,test@test.com,2022-01-03,$2y$10$u5FN3H4D3hcDxeV91/0Q5.NZz/daC/0NccRKpo8.M9V7ZK1ZN3vu.,Radiateur,PL,fvdb
+"test en live CSV",csv,test@csv.com,2022-01-03,$2y$10$X1AgKNOTmB1ZkpGcAahDBuHBriP4zSVAfDitDbOAsBYNd3NkBs7EG,Radiateur,WO,"gdhvkjsdhfkjsiugdkhvf b
+jhkdsfjeglbiudk
+fjvchdh;x"
+test,ponctuation,ponc@tuat.ion,2022-01-04,$2y$10$TCSlDEkrnEE5lIuhhgX/QunSIijZuSP6UwaboLP0h.2t7tuthSx6G,Agrafeuse,EU,",;?./:""""""""""""''''!*%$"
+injection,code,jgf@fjdgbv.com,2022-01-05,$2y$10$EelgAUtaqLcB5EvDwDRxx.QmTyjrgtN9PWzgAExDPJxOzI2jfhAte,Radiateur,IT,"alert(""vous avez choppez un virus, rendez-vous à cette adresse pour vous faire désinfecter !"")"
+jfhd,jkfcvdkjb,jfkdv@fjegvd.rk,2022-01-17,$2y$10$IIbl0pV6FuLqhcjV6vpWe.P/pu7K/ZLVvG4vOAXgcYVeJ6/qVtyAO,Radiateur,FR,"&lt;script&gt;alert(&quot;&quot;vous avez choppez un virus, rendez-vous &agrave; cette adresse pour vous faire d&eacute;sinfecter !&quot;&quot;);&lt;/script&gt;"

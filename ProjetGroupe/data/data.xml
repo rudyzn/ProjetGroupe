@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<personnes>
+    <personne>
+        <nom>LANNEY RICCI</nom>
+        <prenom>R&#xE9;mi</prenom>
+        <email>remi.lanney@cote-azur.cci.fr</email>
+        <dob>04-01-2000</dob>
+        <pwd>$2y$10$fk2j72v5g.J1nv0eyCH54ea8VonmWoj5haLaQkNGHN2dJXf9r8Q2K</pwd>
+        <genre>Licorne</genre>
+        <nat>WO</nat>
+        <com>Un formateur sadique</com>
+    </personne>
+    <personne>
+        <nom>Test en live</nom>
+        <prenom>test</prenom>
+        <email>test@test.com</email>
+        <dob>2022-01-03</dob>
+        <pwd>$2y$10$7Vn1MW4w1gmybYPMlzkgqeRaMRerXuVZSs0Rb3Yb/Sbx45glLmeDS</pwd>
+        <genre>Radiateur</genre>
+        <nat>PL</nat>
+        <com>fdgbgfb&#xD;</com>
+    </personne>
+</personnes>

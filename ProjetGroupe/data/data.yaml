@@ -1,0 +1,34 @@
+---
+- nom: LANNEY RICCI
+  prenom: "R\xE9mi"
+  email: remi.lanney@cote-azur.cci.fr
+  dob: 04-01-2000
+  pwd: $2y$10$fk2j72v5g.J1nv0eyCH54ea8VonmWoj5haLaQkNGHN2dJXf9r8Q2K
+  genre: Test
+  nat: WO
+  com: Un formateur sadique
+- nom: ENRICI
+  prenom: Cyril
+  email: cyril.enrici@cote-azur.cci.fr
+  dob: 05-02-2002
+  pwd: $2y$10$Ps5w4E5DcoUx5iwrSMmJpuRh6IOjMQWM39z0XhiDlzMgNNsf9XlRq
+  genre: Barbu
+  nat: FR
+  com: Un autre sadique
+- nom: jhdvkgdv
+  prenom: jfhcjbck
+  email: jfhdhbkhgkdjfk@jhf.test
+  dob: "2022-01-03"
+  pwd: $2y$10$I2D42wN6YjRFV.WzOHIDju7/Lxqk3LLxAiDQsh8ZIsOBzDevldhnG
+  genre: Radiateur
+  nat: PL
+  com: test
+- nom: YAML
+  prenom: test
+  email: yaml@test.com
+  dob: "2022-01-06"
+  pwd: $2y$10$qbapnvlThs5HJkTOXsyfy.gkScoziNGJLtkQMJeDwQWSH2BHtAL/a
+  genre: Radiateur
+  nat: PL
+  com: "fbhvfkhb4\r\njvbdwc;, "
+...

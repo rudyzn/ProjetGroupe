@@ -1,0 +1,31 @@
+body{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-between
+}
+fieldset{
+    border: 2px solid #aaa;
+    border-radius: 20px;
+    padding:10px;
+    margin: 10px;
+    width: calc(65% - 20px);
+    box-sizing: border-box;
+    overflow:auto;
+    /* min-width:600px; */
+}
+fieldset:nth-child(2){
+    width: calc(35% - 20px);
+    overflow:none;
+}
+#listing{
+    width:100%;
+}
+@media all and (max-width: 800px){
+    fieldset{
+        width: calc(100% - 20px) !important;
+        min-width:300px;
+    }
+    input:not[type="reset"], select, textarea, label{
+        width: 100% !important;
+    }
+}
